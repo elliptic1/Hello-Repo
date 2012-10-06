@@ -23,6 +23,8 @@ while i<10:
 
 # New feature request: print the last item in myList
 
+print myList[-1]
+
 # New feature request: add 14 to the list and remove 13.
 
 
