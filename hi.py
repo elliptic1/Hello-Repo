@@ -19,3 +19,11 @@ while i<10:
 	i=i+1
 
 
+# New feature request: print the word "yo"
+
+# New feature request: print the last item in myList
+
+# New feature request: add 14 to the list and remove 13.
+
+
+
