@@ -14,6 +14,8 @@ print "There are", len(myList), "things on my list."
 print "The second item on the list is" , myList[1]
 
 print "ADADADADAD"
+print "ADADADADAD"
+print "ADADADADAD"
 
 i=0
 while i<10:
