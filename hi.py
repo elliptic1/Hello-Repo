@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 msg = "This is a message"
-n = 19
+n = 20
 
 print msg
 print n
