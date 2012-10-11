@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-msg = "This is a message"
+msg = "This is the free version"
 n = 20
 
 print msg
