@@ -14,6 +14,8 @@ print "There are", len(myList), "things on my list."
 print "The second item on the list is" , myList[1]
 
 i=0
+
+# This loop only runs in the paid version
 while i<10:
 	print i
 	i=i+1
