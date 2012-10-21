@@ -8,7 +8,7 @@ print n
 
 # Comment: This is my list
 
-myList = ['Milk', 'eggs', 13, 21]
+myList = ['Milk', 'eggs', 13, 21, 8]
 
 print "There are", len(myList), "things on my list."
 print "The second item on the list is" , myList[1]
